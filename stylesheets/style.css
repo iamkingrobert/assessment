@@ -3,11 +3,15 @@
     --heroBgColor: #314b58;
   }
   
-  body{
+  body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif; 
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif; 
   }
   
   /* hero section */
